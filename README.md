@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KellyRuizTest
 - 👀 I’m interested in create wonderfull mobile apps
-- 🌱 I’m currently learning Blockchain development
+- 🌱 I’m currently learning Blockchain development & IA stuff
 - 📫 How to reach me kelly.ruizh@gmail.com or kr.ruiz@samsung.com 
 
 <!---
