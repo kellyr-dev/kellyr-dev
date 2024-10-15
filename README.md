@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KellyRuizTest
+- 👋 Hi, I’m @kellyr-dev
 - 👀 I’m interested in create wonderfull mobile apps
 - 🌱 I’m currently learning Blockchain development & IA stuff
-- 📫 How to reach me kelly.ruizh@gmail.com or kr.ruiz@samsung.com 
+- 📫 How to reach me kellyruiz.dev@gmail.com
 
 <!---
 KellyRuizTest/KellyRuizTest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
