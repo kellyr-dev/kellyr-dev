@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellyr-dev
 - 👀 I’m interested in create wonderfull mobile apps
-- 🌱 I’m currently learning Blockchain development, IA and other stuffs
+- 🌱 I’m currently learning Blockchain development, IA and AR/VR
 - 📫 How to reach me kellyruiz.dev@gmail.com
 
 <!---
